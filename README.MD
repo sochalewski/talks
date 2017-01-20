@@ -12,6 +12,8 @@ Includes slides and source code.
 
 Talk from Let Swift #7 (19th January, 2017).
 
+Includes slides.
+
 ## Author
 
 Piotr Sochalewski, <a href="http://sochalewski.github.io/">sochalewski.github.io</a>
