@@ -18,8 +18,16 @@ Includes 🇵🇱 slides.
 
 Talk from Let Swift #12 (9th November, 2017).
 
-It is about affordances, skeuomorphism, discoverabilty and intuitiveness in iOS UI. Unfortunately no slides here, because the presentation doesn't work well without a speech.
+It is about affordances, skeuomorphism, discoverability and intuitiveness in iOS UI. Unfortunately no slides here, because the presentation doesn't work well without a speech.
+
+## Handling Enormous Collection Types in Swift
+
+Talk from Let Swift #16 (14th June, 2018).
+
+Includes 🇬🇧 slides.
+
+The blog post can be found [here](https://www.netguru.co/codestories/handling-enormous-collection-types-in-swift).
 
 ## Author
 
-Piotr Sochalewski, <a href="http://sochalewski.github.io/">sochalewski.github.io</a>
+Piotr Sochalewski, [sochalewski.github.io](http://sochalewski.github.io/)
