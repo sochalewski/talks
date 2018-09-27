@@ -4,9 +4,9 @@ Code and/or slides from my talks.
 
 ## Pedal to the Metal
 
-Swift performance talk from Let Swift #5 (17th November, 2016).
+Swift performance talk from Let Swift #5 (17th November, 2016), and swift.map{$6} (25th September, 2018).
 
-Includes 🇬🇧 slides and source code.
+Includes 🇬🇧 slides.
 
 ## How to stay happy and motivated as a developer?
 
